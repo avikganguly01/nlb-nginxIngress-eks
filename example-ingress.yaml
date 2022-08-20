@@ -10,7 +10,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - anthonycornell.com
+    - banana.fynarfin.io
     secretName: tls-secret
   rules:
   - host: fynarfin.io
