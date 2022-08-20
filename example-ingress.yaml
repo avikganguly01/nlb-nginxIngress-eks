@@ -13,7 +13,7 @@ spec:
     - banana.fynarfin.io
     secretName: tls-secret
   rules:
-  - host: fynarfin.io
+  - host: banana.fynarfin.io
     http:
       paths:
         - path: /apple
